@@ -1,0 +1,6 @@
+{
+    "index.html": {
+        "description": "Basic HTML file that displays 'Hello, World!' as its content, leveraging HTML5 syntax and semantic elements.",
+        "dependencies": {}
+    }
+}
